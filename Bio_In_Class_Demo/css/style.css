@@ -1,0 +1,11 @@
+h1 {
+    text-align:center;
+    color: #eee;
+    border-style: solid;
+    background-color: #333333;
+    font-size: 28px;
+}
+div.container {
+  background-color: #efeee7;
+  font-family: "Georgia", 'Times New Roman', Times, serif;
+}

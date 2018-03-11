@@ -10,3 +10,5 @@ Commit 3: Fork Example, merged in hello2.txt
 Commit 4: Basic Bio Site, index_bio.html
 Commit 5: Start of CSS on index_bio.html
 Commit 6: Rebuilt Structure of Folders
+Commit 7: Added HTML Data, Image
+Commit 8: New CSS Work
